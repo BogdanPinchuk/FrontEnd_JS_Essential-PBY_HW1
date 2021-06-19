@@ -6,3 +6,10 @@ body{
 h2, p{
     margin: 15px 0 0 15px;
 }
+
+a{
+    text-decoration: none;
+    font-style: italic;
+    color: black;
+    cursor: pointer;
+}
